@@ -11,4 +11,4 @@
 ### week1
 > * 學習如何使用github分享自己的學習成果
 > * 利用codesignal複習python的基礎function
-> * 完成codesiganl arcade-universe/python 第1至10題
+> * 完成codesiganl arcade-universe/python 第1至8題
