@@ -3,7 +3,7 @@
 > 這邊有我練習過的程式碼。
 
 
-### self-introduction
+### 自我介紹
 > * Name: Alex Shaw
 > * Major: Big Data Management
 > * School: Soochow University  
