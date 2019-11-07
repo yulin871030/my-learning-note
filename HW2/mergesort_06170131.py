@@ -6,15 +6,15 @@
 
 class Solution(object):
     def merge_sort(self, nums):
-        answer = []
-        if len(nums) <= 1:
+        answer = []  #創一個空的list
+        if len(nums) <= 1:  #如果list等於或小於1，就直接回傳該list
             return nums
-        mid = int(len(nums)/2)
-        left = self.merge_sort(nums[:mid])
+        mid = int(len(nums)/2)  #找出中間值在哪，拆解list
+        left = self.merge_sort(nums[:mid])  
         right = self.merge_sort(nums[mid:])
 
         while (len(right) > 0) or (len(left) > 0):
-            if len(right) > 0 and len(left) > 0:
+            if len(right) > 0 and len(left) > 0:  
                 if right[0] > left[0]:
                     answer.append(left[0])
                     left.pop(0)
