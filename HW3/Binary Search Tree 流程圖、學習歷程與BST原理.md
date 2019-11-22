@@ -1,17 +1,8 @@
-# BST-search
-## 流程圖
-<img src='https://github.com/eter0000/learningnotes/blob/master/images/search.png'>
-
-  * 一開始我想說從最簡單的search下手，不過因為我不曉得我要找的東西是什麼？我要找的是一個數值？還是它的位置？ 所以有點小停頓了一下，後來看到助教的範例，哦～原來是要位置，那應該不會很難吧，於是大概花半小時就完成了，雖然沒有到很快，但跟之前幾個作業相比，search算是很快的了，以下是程式碼：
-  <img src='https://github.com/eter0000/learningnotes/blob/master/images/search1.jpg'>
-  
-  * 需要用到遞迴的關係，不過之前的作業有做過類似的，所以沒有卡太久
-  
-# BST-insert
+  # BST-insert
 ## 流程圖
 <img src='https://github.com/eter0000/learningnotes/blob/master/images/insert.png'>
   
-  * insert的概念其實跟前面提到的search有點類似，它一樣會逐一比較，之後再到他應該待的地方，差別就在insert把東西放進去，search不用。所以在寫insert的時候，一開始也很順，直到我遇到一個問題是**我丟進去的值是int而不是BST的node**，後來發現我必須要用treenode的方式賦予值才會符合格式的
+  * insert的概念其實很簡單，它會逐一比較，之後再到他應該待的地方。所以在寫insert的時候，一開始也很順，直到我遇到一個問題是**我丟進去的是值而不是root的位置**，後來發現我必須要用treenode的方式賦予值才會符合格式的
  
 <img src='https://github.com/eter0000/learningnotes/blob/master/images/insert2.jpg'>
  
@@ -23,14 +14,22 @@
   
   <img src='https://github.com/eter0000/learningnotes/blob/master/images/insert3.jpg'>
   
-  * 原本以為四個作業已經完成兩個了，距離結束應該不遠了，殊不知這才是地獄的開始……
+  * 原本以為四個Def已經完成一個了，距離結束應該不遠了，殊不知delete才是地獄的開始……
+  
+  # BST-search
+## 流程圖
+<img src='https://github.com/eter0000/learningnotes/blob/master/images/search.png'>
+
+  * Search應該是我覺得最簡單的一個Def，因為其實寫法跟insert很像，大概花半小時就完成了，雖然沒有到很快，但跟其他幾個Def相比，search算是很快的了，以下是程式碼：
+  <img src='https://github.com/eter0000/learningnotes/blob/master/images/search1.jpg'>
+  
+  * 需要用到遞迴的關係，不過前幾次作業有做過類似的，所以沒有卡太久
   
   # BST-delete
   ## 流程圖
   <img src='https://github.com/eter0000/learningnotes/blob/master/images/delete.png'>
   
-  * 看到著個大篇幅的流程圖就知道有多精采了吧！讓我娓娓道來這其中的辛酸血淚～
-  * 在開始打程式碼之前我有先在腦海中想像，如果有這個delete功能，它應該是要長怎樣？但想著想著，覺得還是別裝逼了，老老實實的上網看介紹吧～於是我看了幾個網站的介紹，大概了解七成了，剩下那三成可能要「做中學」了，抱持著我有信心能在一天內寫完的心情，好，那我就開始寫了，第一次寫出來長這樣
+  * 在開始打程式碼之前我有先在腦海中想像，如果有這個delete功能，它應該是要長怎樣？但想著想著，還是覺得老老實實的上網看介紹吧～於是我看了幾個網站的介紹，大概了解七成了，剩下那三成可能要在變做邊理解了，抱持著我有信心能在一天內寫完的心情，好，那我就開始寫了，第一次寫出來長這樣
   
   <img src='https://github.com/eter0000/learningnotes/blob/master/images/delete3.jpg'>
   
@@ -50,8 +49,9 @@
   
   <img src='https://github.com/eter0000/learningnotes/blob/master/images/delete4.jpg'>
   
-  * 就在我以為可以順利的過關時，在執行的時候卻出現錯誤，而且永遠都是「'Nonetype' has no attribute to '.left'」或者是「'Nonetype' has no attribute to '.right'」我的天! 錯的次數多到我都可以把這個錯誤背起來了，相信很多人一定也跟我一樣遇到一樣的問題，因為我的root已經跑遞迴跑到便None了，我卻還不知道為什麼，為此我當機大概兩天…… 後來發現我的return放錯地方了
-  * 除此之外，我先我這個delete漏洞太多，包括沒辦法一次刪除重複的數、還有一些特殊情況沒考慮到等等，導致我的code時而對時而錯，心情像在洗三溫暖。
+  
+  * 後來我發現我這個delete漏洞太多，包括沒辦法一次刪除重複的數、還有一些特殊情況沒考慮到等等，導致我的code時而對時而錯，心情像在洗三溫暖。
+  最後我加上了while迴圈變解決了這個問題
   
   # BST-modify
   ## 流程圖
