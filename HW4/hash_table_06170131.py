@@ -11,7 +11,6 @@ class MyHashSet:
     def __init__(self, capacity=5):
         self.capacity = capacity
         self.data = [None] * capacity
-        self.capacity = capacity
 
     def add(self, key):
         h = MD5.new()
