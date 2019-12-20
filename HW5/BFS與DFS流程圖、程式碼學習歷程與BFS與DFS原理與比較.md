@@ -1,3 +1,10 @@
+# 流程圖
+
+
+
+
+
+
 # BFS與DFS原理
 
 * BFS原理
@@ -31,7 +38,7 @@
   **BFS 的重點在於佇列，而 DFS 的重點在於遞迴。這是它們的本質區別**
   
   
-#學習歷程
+# 學習歷程
 
 
 
@@ -49,43 +56,52 @@
 
 
 ```python
- def BFS(self, s):
-        state2 = []
-        queue  = [s]
-
-        while queue:
+     def BFS(self, s):
+        queue = []
+        final = []
+        final.append(s)
+        queue = queue+self.graph[s]
+        while len(queue) != 0:
             s = queue.pop(0)
-            
-            if s not in state2:
-                state2.append(s)
-                neighbours = self.graph[s]
-                
-                for neighbour in neighbours:
-                    queue.append(neighbour)
-        return state2
+            final.append(s)
+            plus = []
+            plus = plus+self.graph[s]
+            for i in plus:
+                if i in queue:
+                    plus.remove(i)
+            for i in plus:
+                if i in final:
+                    plus.remove(i)
+            queue = queue+plus
+        return final
 ```
 
-先設定一個state2及一個bfs重要因子queue序列空間，原本忘記pop這個用法，上網搜尋了一下重拾記憶，順便連append也一同搞懂，照著流程圖真的很快擁有邏輯，再一步一步換成程式碼，雖然每次都在這花了許多時間，但應該是有慢慢在進步當中！
+先設定一個final及一個bfs重要因子queue序列空間，原本忘記pop這個用法，上網搜尋了一下重拾記憶，照著流程圖真的很快擁有邏輯，再一步一步換成程式碼
 
 
 ```python
- def DFS(self, s): 
-        stateb = []
-        stack = [s]
-
-        while stack:
-            s = stack.pop(-1)
-            if s not in stateb:
-                stateb.append(s)
-                neighbours = self.graph[s]
-                for neighbour in neighbours:
-                    stack.append(neighbour)
-        return stateb
+     def DFS(self, s):
+        stack = []
+        final = []
+        final.append(s)
+        stack = stack+self.graph[s]
+        while len(stack) != 0:
+            s = stack.pop()
+            final.append(s)
+            plus = []
+            plus = plus+self.graph[s]
+            for i in plus:
+                if i in stack:
+                    plus.remove(i)
+            for i in plus:
+                if i in final:
+                    plus.remove(i)
+            stack = stack+plus
+        return final
 ```
 
 這段跟bfs大同小異，畢竟這兩樣幾乎同個概念，只差在queue變stack跟pop的順序，而原因在流程圖即比較那邊有較詳盡的說明，在這就先不做贅述。
-主要這次程式碼能完成，要感謝在pair programing時，彥南在旁釐清觀念，要我不要急，才能按部就班完成想法構思，
-也感謝蔡老師上課教學的改變，使我流程圖及邏輯更能掌握，不再那麼抽象，特別是bfs跟dfs寫在黑板的例題，需要寫很多東西，謝謝不厭其煩，讓我懂更快速。
+主要這次程式碼能完成，要感謝蔡老師上課教學的改變，使我流程圖及邏輯更能掌握，不再那麼抽象，讓我懂更快速。
   
   
   
