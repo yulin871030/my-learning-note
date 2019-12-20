@@ -1,6 +1,6 @@
 # 流程圖
 
-
+![](/images/BFS.jpg)
 
 
 
