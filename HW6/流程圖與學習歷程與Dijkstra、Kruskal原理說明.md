@@ -20,7 +20,7 @@ Dijkstra演算法的輸入包含了一個有權重的有向圖G，以及G中的�
 
 找到從一個頂點s到任何其他頂點的最短路徑。  
 
-![](/image/Dijkstra.png)
+![](/images/Dijkstra.png)
 
 ## Kruskal
 Kruskal演算法是一種用來尋找最小生成樹的演算法，目的是找出可連結所有點且具最小權重總和的樹  
