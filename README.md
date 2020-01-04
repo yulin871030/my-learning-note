@@ -4,14 +4,14 @@
 
 # 檔案結構
 ### 課堂作業
->-[HW1 (Quicksort)](HW1)
-    * [Quicksort程式碼](HW1/QuickSort.ipynb)
-    * [Quicksort流程圖與文字說明](HW1/README.md)
->-[HW2 (Heapsort & Mergesort)](HW2)
->-[HW3 (BST)](HW3)
->-[HW4 (Hash Table)](HW4)
->-[HW5 (BFS & DFS)](HW5)
->-[HW6 (Dijkstra & Kruskal)](HW6)
+> [HW1 (Quicksort)](HW1)
+>  * [Quicksort程式碼](HW1/QuickSort.ipynb)
+>  * [Quicksort流程圖與文字說明](HW1/README.md)
+> [HW2 (Heapsort & Mergesort)](HW2)
+> [HW3 (BST)](HW3)
+> [HW4 (Hash Table)](HW4)
+> [HW5 (BFS & DFS)](HW5)
+> [HW6 (Dijkstra & Kruskal)](HW6)
 
 ### 自主練習
 > * [Codesignal](CodeSignal)
