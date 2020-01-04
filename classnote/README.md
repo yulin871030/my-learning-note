@@ -1,6 +1,6 @@
 # 目錄：
-* [Stack&Queue](#stackqueue)
-* [Insertion Sort](#insertion-sort)
+* [Week1(09/09~09/15)](week1.md)
+* [Week2(09/16~09/22)](week2.md)
 
 
 
