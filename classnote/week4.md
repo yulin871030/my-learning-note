@@ -13,3 +13,10 @@
 1. 回到第2個步驟。
 
 ![](images/insertionsort.png)
+
+## [程式碼](code/Insertion_Sort.py)
+
+
+## 參考資料
+- http://alrightchiu.github.io/SecondRound/comparison-sort-insertion-sortcha-ru-pai-xu-fa.html
+- http://notepad.yehyeh.net/Content/Algorithm/Sort/Insertion/1.php
