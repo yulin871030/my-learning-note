@@ -4,19 +4,20 @@
 
 # 檔案結構
 ### 課堂作業
-> * [HW1 (Quicksort)](HW1)
-- [HW2 (Heapsort & Mergesort)](HW2)
-- [HW3 (BST)](HW3)
-- [HW4 (Hash Table)](HW4)
-- [HW5 (BFS & DFS)](HW5)
-- [HW6 (Dijkstra & Kruskal)](HW6)
+> * [HW1 (Quicksort)]
+Quicksort程式碼(HW1/QuickSort.ipynb)
+> * [HW2 (Heapsort & Mergesort)](HW2)
+> * [HW3 (BST)](HW3)
+> * [HW4 (Hash Table)](HW4)
+> * [HW5 (BFS & DFS)](HW5)
+> * [HW6 (Dijkstra & Kruskal)](HW6)
 
 ### 自主練習
-- [Codesignal](CodeSignal)
-- [Leetcode](Leetcode)
-- [CS50](CS50)
-### 課堂筆記存放區
-- [classnote](classnote)
+> * [Codesignal](CodeSignal)
+> * [Leetcode](Leetcode)
+> * [CS50](CS50)
+### 每周上課內容概述
+> * [classnote](classnote)
 
 
 ### 自我介紹
