@@ -31,3 +31,8 @@
   - Tutorialspoint：Operating System - Process Scheduling。
   - Stack Overflow：What are practical applications of Queues?。
   - Stack Exchange：Which queue does the long-term scheduler maintain?
+
+
+## 參考資料
+- http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html
+- http://alrightchiu.github.io/SecondRound/queue-introjian-jie-bing-yi-linked-listshi-zuo.html
