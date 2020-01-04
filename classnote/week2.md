@@ -34,8 +34,8 @@
   * 需要頻繁地新增/刪除資料時。
   * 不需要快速查詢資料。
 
-## 程式碼
+## [程式碼](code/linked_list.py)
 
 ## 參考網站
-* http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html
+- http://alrightchiu.github.io/SecondRound/linked-list-xin-zeng-zi-liao-shan-chu-zi-liao-fan-zhuan.html
 - http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html
