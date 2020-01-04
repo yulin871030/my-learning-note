@@ -1,7 +1,22 @@
 # 目錄：
-* [Week1(09/09~09/15)](week1.md)
-* [Week2(09/16~09/22)](week2.md)
-
+- [Week1(09/09~09/15)](week1.md)
+- [Week2(09/16~09/22)](week2.md)
+- [Week3(09/23~09/29)](week3.md)
+- [Week4(09/30~10/06)](week4.md)
+- [Week5(10/07~10/13)](week5.md)
+- [Week6(10/14~10/20)](week6.md)
+- [Week7(10/21~10/27)](week7.md)
+- [Week8(10/28~11/03)](week8.md)
+- [Week9(11/04~11/10)](week9.md)
+- [Week10(11/11~11/17)](week10.md)
+- [Week11(11/18~11/24)](week11.md)
+- [Week12(11/25~12/01)](week12.md)
+- [Week13(12/02~12/08)](week13.md)
+- [Week14(12/09~12/15)](week14.md)
+- [Week15(12/16~12/22)](week15.md)
+- [Week16(12/23~12/29)](week16.md)
+- [Week17(12/30~01/05)](week17.md)
+- [Week18(01/06~01/12)](week18.md)
 
 
 # Stack&Queue
