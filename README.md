@@ -4,7 +4,7 @@
 
 # 檔案結構
 ### 課堂作業
-> * [HW1 (Quicksort)](HW1)
+> [HW1 (Quicksort)](HW1)
    * [Quicksort程式碼](HW1/QuickSort.ipynb)
 > * [HW2 (Heapsort & Mergesort)](HW2)
 > * [HW3 (BST)](HW3)
