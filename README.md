@@ -16,7 +16,7 @@
 - [HW3 (BST)](HW3)
   - [BST程式碼](HW3/binary_search_tree_06170131.py)
   - [BST新增、刪除、查詢、修改功能說明](HW3/Binary Search Tree 新增、刪除、查詢、修改功能說明.md)
-  - [BST流程圖、學習歷程與BST原理](HW3/Binary Search Tree 流程圖、學習歷程與BST原理.md)
+  - [BST流程圖、學習歷程與BST原理](HW3/ Binary Search Tree 流程圖、學習歷程與BST原理.md)
 - [HW4 (Hash Table)](HW4)
 - [HW5 (BFS & DFS)](HW5)
 - [HW6 (Dijkstra & Kruskal)](HW6)
