@@ -4,7 +4,8 @@
 
 # 自我介紹
 > * Name: Alex Shaw
-> * Major: Big Data Management
+> * Nationality: Canadian / Republic of China
+> * Major: Data Science
 > * School: Soochow University  
 
 # 檔案結構
