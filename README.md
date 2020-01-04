@@ -33,15 +33,30 @@
   - [Dijkstra & Kruskal程式碼](HW6/Dijkstra_06170131.py)
   - [流程圖與學習歷程與Dijkstra、Kruskal原理說明](https://github.com/yulin871030/my-learning-note/blob/master/HW6/%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Dijkstra%E3%80%81Kruskal%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.md)
 
-### 自主練習
+### 課後練習
 > * [Codesignal](Codesignal)
 > * [Leetcode](Leetcode)
 > * [CS50](CS50)
 ### 每周上課內容概述
-> * [classnote](classnote)
+- [Week1(09/09~09/15)](classnote/week1.md)
+- [Week2(09/16~09/22)](classnote/week2.md)
+- [Week3(09/23~09/29)](classnote/week3.md)
+- [Week4(09/30~10/06)](classnote/week4.md)
+- [Week5(10/07~10/13)](classnote/week5.md)
+- [Week6(10/14~10/20)](classnote/week6.md)
+- [Week7(10/21~10/27)](classnote/week7.md)
+- [Week8(10/28~11/03)](classnote/week8.md)
+- [Week9(11/04~11/10)](classnote/week9.md)
+- [Week10(11/11~11/17)](classnote/week10.md)
+- [Week11(11/18~11/24)](classnote/week11.md)
+- [Week12(11/25~12/01)](classnote/week12.md)
+- [Week13(12/02~12/08)](classnote/week13.md)
+- [Week14(12/09~12/15)](classnote/week14.md)
+- [Week15(12/16~12/22)](classnote/week15.md)
+- [Week16(12/23~12/29)](classnote/week16.md)
+- [Week17(12/30~01/05)](classnote/week17.md)
+- [Week18(01/06~01/12)](classnote/week18.md)
 
 
-### week1
-> * 學習如何使用github分享自己的學習成果
-> * 利用codesignal複習python的基礎function
-> * 完成codesiganl arcade-universe/python 第1至8題
+
+
