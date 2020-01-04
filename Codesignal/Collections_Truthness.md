@@ -1,4 +1,4 @@
-### 01 Collections Truthness
+### 1. Collections Truthness
 
 What will be the value of res after the following snippet is executed:
 
