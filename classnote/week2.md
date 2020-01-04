@@ -2,7 +2,7 @@
 ## 簡介
   * Linked list(連結串列)是一種常見的資料結構，其使用node(節點)來記錄、表示、儲存資料(data)，並利用每個node中的pointer指向下一個node，藉此將多個node串連起來，形成Linked list，並以NULL來代表Linked list的終點，若實際打開每個node的內部，至少會包含(1)data來代表資料，與(2)pointer指向下一個node。
 
-## [比較：Array與Linked list](http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html)
+## 比較：Array與Linked list
   ### Array
    #### 優點 :
    * random access：只要利用index即可在O(1)時間對Array的資料做存取。
@@ -35,3 +35,7 @@
   * 不需要快速查詢資料。
 
 ## 程式碼
+
+## 參考網站
+* http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html
+- http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html
