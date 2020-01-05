@@ -6,3 +6,10 @@
 
 
 ![](https://github.com/alrightchiu/SecondRound/blob/master/content/Algorithms%20and%20Data%20Structures/Tree%20series/BinaryTree_fig/Intro/f2.png?raw=true)
+
+## 優點
+- Trees 可以用來存儲有層次結構的信息。例如，電腦上的文件系統。
+- Trees 可以直接反映出資料的結構。
+- Trees 的結構適合 insertion 和 searching。
+
+## [程式碼](code/Binary_Tree)
