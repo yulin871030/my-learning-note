@@ -39,7 +39,7 @@
 > * [CS50](CS50)
 ### 每周上課內容概述
 - Week1(09/09~09/15)
-  -[GitHub](classnote/week1.md)
+  - [GitHub](classnote/week1.md)
 - Week2(09/16~09/22)
   - [linked-List](classnote/week2.md)
 - Week3(09/23~09/29)
@@ -65,7 +65,7 @@
 - Week13(12/02~12/08)
   - [Depth-First Search](classnote/week13.md)
 - Week14(12/09~12/15)
-  -[Minimum Spanning Tree-Kruskal](classnote/week14.md)
+  - [Minimum Spanning Tree-Kruskal](classnote/week14.md)
 - Week15(12/16~12/22)
   - [Shortest Path - Dijkstra](classnote/week15.md)
 - Week16(12/23~12/29)
