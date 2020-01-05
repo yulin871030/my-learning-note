@@ -48,29 +48,38 @@
   - [Insertion Sort](classnote/week4.md)
 - Week5(10/07~10/13)
   - [Quick Sort](classnote/week5.md)
+  - [HW1:Quick Sort](HW1)
 - Week6(10/14~10/20)
   - [Heap Sort](classnote/week6.md)
 - Week7(10/21~10/27)
   - [Merge Sort](classnote/week7.md)
+  - [HW2:Merge Sort&Heap Sort](HW2)
 - Week8(10/28~11/03)
   - [Binary Tree](classnote/week8.md)
 - Week9(11/04~11/10)
   - [Binary Search Tree](classnote/week9.md)
+  - [HW3:Binary Search Tree](HW3)
 - Week10(11/11~11/17)
   - [紅黑樹（Red Black Tree）](classnote/week10.md)
 - Week11(11/18~11/24)
   - [Hash table](classnote/week11.md)
+  - [HW4:Hash table](HW4)
 - Week12(11/25~12/01)
   - [Breadth-First Search](classnote/week12.md)
 - Week13(12/02~12/08)
   - [Depth-First Search](classnote/week13.md)
+  - [HW5:BFS&DFS](HW5)
 - Week14(12/09~12/15)
   - [Minimum Spanning Tree-Kruskal](classnote/week14.md)
 - Week15(12/16~12/22)
   - [Shortest Path - Dijkstra](classnote/week15.md)
+  - [HW6:Dijkstra&Kruskal](HW6)
 - Week16(12/23~12/29)
+  - 期末考複習
 - Week17(12/30~01/05)
+  - 期末考
 - Week18(01/06~01/12)
+  - 放假
 
 
 
