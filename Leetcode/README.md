@@ -13,7 +13,7 @@ LeetCode是一個收集軟體工程師面試考古題的線上練功網站。一
 
 [題目](https://leetcode.com/problems/merge-two-sorted-lists/)
 
-[解答](21_Merge-Two-Sorted-Lists_06170131.py)
+[解答](https://github.com/yulin871030/my-learning-note/blob/master/Leetcode/21_Merge%20Two%20Sorted%20Lists_06170131.py)
 
 ![](https://github.com/yulin871030/my-learning-note/blob/master/images/Merge%20Two%20Sorted%20Lists.jpg)
 
@@ -21,7 +21,7 @@ LeetCode是一個收集軟體工程師面試考古題的線上練功網站。一
 
 [題目](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-[解答](104_Maximum-Depth-of-Binary-Tree_06170131.py)
+[解答](https://github.com/yulin871030/my-learning-note/blob/master/Leetcode/104_Maximum%20Depth%20of%20Binary%20Tree_06170131.py)
 
 ![](https://github.com/yulin871030/my-learning-note/blob/master/images/Maximum%20Depth%20of%20Binary%20Tree.jpg)
 
@@ -29,7 +29,7 @@ LeetCode是一個收集軟體工程師面試考古題的線上練功網站。一
 
 [題目](https://leetcode.com/problems/balanced-binary-tree/)
 
-[解答](110_Balanced-Binary-Tree_06170131.py)
+[解答](https://github.com/yulin871030/my-learning-note/blob/master/Leetcode/110_Balanced%20Binary%20Tree_06170131.py)
 
 ![](https://github.com/yulin871030/my-learning-note/blob/master/images/Balanced%20Binary%20Tree.jpg)
 
@@ -37,7 +37,7 @@ LeetCode是一個收集軟體工程師面試考古題的線上練功網站。一
 
 [題目](https://leetcode.com/problems/linked-list-cycle/)
 
-[解答](141_Linked-List-Cycle_06170131.py )
+[解答](https://github.com/yulin871030/my-learning-note/blob/master/Leetcode/141_Linked%20List%20Cycle_06170131.py)
 
 ![](https://github.com/yulin871030/my-learning-note/blob/master/images/Linked%20List%20Cycle.jpg)
 
@@ -45,6 +45,6 @@ LeetCode是一個收集軟體工程師面試考古題的線上練功網站。一
 
 [題目](https://leetcode.com/problems/merge-two-binary-trees/)
 
-[解答](110_Balanced-Binary-Tree_06170131.py)
+[解答](https://github.com/yulin871030/my-learning-note/blob/master/Leetcode/617_Merge%20Two%20Binary%20Trees_06170131.py)
 
 ![](https://github.com/yulin871030/my-learning-note/blob/master/images/Merge%20Two%20Binary%20Trees.jpg)
