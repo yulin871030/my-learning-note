@@ -12,4 +12,10 @@
 - Trees 可以直接反映出資料的結構。
 - Trees 的結構適合 insertion 和 searching。
 
-## [程式碼](code/Binary_Tree)
+## [程式碼](code/Binary_Tree.py)
+
+
+## 參考資料
+- http://alrightchiu.github.io/SecondRound/binary-tree-jian-li-yi-ke-binary-tree.html
+- http://alrightchiu.github.io/SecondRound/binary-tree-introjian-jie.html
+- http://www.csie.ntnu.edu.tw/~u91029/BinaryTree.html
