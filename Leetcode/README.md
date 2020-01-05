@@ -15,7 +15,7 @@ LeetCode是一個收集軟體工程師面試考古題的線上練功網站。一
 
 [解答](21_Merge Two Sorted Lists_06170131.py)
 
-![](my-learning-note/images/Merge Two Sorted Lists.jpg)
+![](/my-learning-note/images/Merge Two Sorted Lists.jpg)
 
 # Maximum Depth of Binary Tree 
 
