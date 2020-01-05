@@ -37,8 +37,10 @@
 > * [Codesignal](Codesignal)
 > * [Leetcode](Leetcode)
 > * [CS50](CS50)
-### 每周上課內容概述
+### 課堂筆記
 > * [calssnote](classnote)
+
+# 上課內容概述
 ## Week1(09/09~09/15)
   - [GitHub](classnote/week1.md)
 ## Week2(09/16~09/22)
