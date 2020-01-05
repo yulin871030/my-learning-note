@@ -15,11 +15,11 @@
 ![](https://img-blog.csdn.net/20180914131136476?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQxNjU2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 - 插入一個新節點或者刪除一個節點時，可能會導致違反上述紅黑樹性質，所以需要通過改變節點顏色和旋轉來維護這些性質。
-- 旋轉直觀效果如下：
-  - 左旋：
+### 旋轉直觀效果如下：
+- 左旋：
 
 ![](https://img-blog.csdn.net/20170323102309404)
 
-  - 右旋：
+- 右旋：
  
 ![](https://img-blog.csdn.net/20180914133836881?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTQxNjU2MjA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
