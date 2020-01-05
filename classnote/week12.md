@@ -5,7 +5,7 @@
 
 ## 步驟
 
-- [](https://camo.githubusercontent.com/dad3753c6bd6d5592d9d301940f4c8a9d71f0d92/68747470733a2f2f692e696d6775722e636f6d2f31786b6b5274492e706e67)
+- [](https://i.imgur.com/1xkkRtI.png)
 
 ## 複雜度分析
 - 時間複雜度：O(V+E)（分別遍歷所有節點和各節點的所有鄰居）
