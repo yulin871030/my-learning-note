@@ -5,7 +5,7 @@
 
 ## 步驟
 
-- [](https://i.imgur.com/1xkkRtI.png)
+![](https://i.imgur.com/1xkkRtI.png)
 
 ## 複雜度分析
 - 時間複雜度：O(V+E)（分別遍歷所有節點和各節點的所有鄰居）
@@ -14,3 +14,6 @@
 ## [程式碼](https://github.com/yulin871030/my-learning-note/blob/master/HW5/BFS_06170131.py)
 
 ## 參考資料
+- https://www.javatpoint.com/breadth-first-search-algorithm
+- https://alrightchiu.github.io/SecondRound/graph-breadth-first-searchbfsguang-du-you-xian-sou-xun.html
+- http://simonsays-tw.com/web/DFS-BFS/BreadthFirstSearch.html
