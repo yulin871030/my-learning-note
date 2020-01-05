@@ -10,3 +10,10 @@
   - 直到所有邊都被檢查過停止。  
   
 ![](https://i.imgur.com/dXpIrlS.gif)
+
+## [程式碼](https://github.com/yulin871030/my-learning-note/blob/master/HW6/Dijkstra_06170131.py)
+
+## 參考資料
+- https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/483941/
+- https://zh.wikipedia.org/wiki/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91
+- http://wiki.csie.ncku.edu.tw/acm/course/MST
