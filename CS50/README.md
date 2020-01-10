@@ -2,8 +2,8 @@
 CS50 是哈佛大學開設的程式通識課程，內容相當多元，包含Scratch、C、演算法、資料結構、HTTP、Python等，
 課程裡有蠻多上課有教到的東西，例如Heapsort、Linked List等等
 
-# 課程整理
-[課程網站](http://cs50.tv/2013/fall/#about,lectures)
+# 課程網址
+[請按我](http://cs50.tv/2013/fall/#about,lectures)
 
 # week 3 
 
