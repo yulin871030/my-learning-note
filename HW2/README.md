@@ -1,7 +1,7 @@
 ## Heap Sort(堆積排序法)
  
  
- ![](https://github.com/pignini/as/blob/master/image/Heap%20Sort2.jpg)
+ ![](https://github.com/pignini/as/blob/master/image/heap%20sort.png)
  
  ----------------------------------------
 ## Merge Sort
